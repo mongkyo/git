@@ -8,3 +8,9 @@
 4. 파일을 수정
 5. add, commit 후 github server로 push
 
+
+## git 
+
+git branch develop
+
+git checkout develop
